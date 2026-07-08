@@ -1,7 +1,7 @@
 <div align="center">
   <h1>⚡ Code. Innovate. Repeat.</h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=00CED1&center=true&width=500&height=40&lines=%2F%2F+Driven+by+logic%2C+built+with+passion.;Mohammad+Kian+Ostadamahmadi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=00CED1&center=true&width=500&height=40&lines=%2F%2F+Driven+by+logic%2C+built+with+passion.;Mohammad+Kian+Ostad........." alt="Typing SVG" />
   </p>
 </div>
 
