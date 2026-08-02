@@ -1,26 +1,26 @@
 <div align="center">
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:00CED1&height=180&section=header&text=RivnZero&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=17"
-alt="RivnZero header"
-/>
+<h1>⚡ RivnZero</h1>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00CED1&center=true&vCenter=true&width=650&height=45&lines=Mohammad+Kian+Ostad.........;Building+reliable+backend+systems;Creating+developer+tools+with+Go;Developing+high-performance+bot+ecosystems;Not+Hiro+Hamada.+Still+inventing."
-alt="Typing introduction"
-/>
+<h3>Backend & Full-Stack Developer</h3>
+
+<a href="https://github.com/RivnZero">
+  <img
+    src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00CED1&center=true&vCenter=true&width=650&height=45&lines=Mohammad+Kian+Ostad.........;Building+reliable+backend+systems;Creating+developer+tools+with+Go;Developing+high-performance+bot+ecosystems;Not+Hiro+Hamada.+Still+inventing](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=00CED1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=Mohammad+Kian+Ostad.........;Building+reliable+backend+systems;Creating+developer+tools+with+Go;Developing+high-performance+bot+ecosystems;Not+Hiro+Hamada.+Still+inventing)."
+    alt="Mohammad Kian Ostad"
+  />
+</a>
 
 <p>
   <a href="https://github.com/RivnZero">
     <img
-      src="https://img.shields.io/badge/GitHub-RivnZero-181717?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub profile"
+      src="[https://img.shields.io/badge/GitHub-RivnZero-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-RivnZero-181717?style=flat-square&amp;logo=github&amp;logoColor=white)"
+      alt="GitHub"
     />
   </a>
   <a href="https://t.me/theenchant">
     <img
-      src="https://img.shields.io/badge/Telegram-@theenchant-26A5E4?style=flat-square&logo=telegram&logoColor=white"
+      src="[https://img.shields.io/badge/Telegram-@theenchant-26A5E4?style=flat-square&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-@theenchant-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white)"
       alt="Telegram"
     />
   </a>
@@ -37,9 +37,7 @@ name: "Mohammad Kian Ostad........."
 alias: "Rivn"
 username: "RivnZero"
 
-location: "Shahreza, Iran"
-
-role:
+roles:
   - "Backend Developer"
   - "Full-Stack Developer"
 
@@ -65,114 +63,153 @@ open_to:
   - "Interesting software challenges"
 ```
 
+I build backend services, web applications, bot integrations, and developer tools with an emphasis on reliability, maintainability, and clean architecture.
+
 ---
 
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Telegram–Bale Bridge
 
-<h3 align="center">
-  <a href="https://github.com/RivnZero/telegram-bale-bridge">
-    Telegram–Bale Bridge
-  </a>
-</h3>
+<div align="center">
 
-<p>
-A reliable bidirectional bridge between one Telegram chat and one Bale chat, written in Go.
-</p>
+<a href="https://github.com/RivnZero/telegram-bale-bridge">   <img     src="https://raw.githubusercontent.com/RivnZero/telegram-bale-bridge/master/assets/logo.webp"     width="180"     alt="Telegram–Bale Bridge logo"   /> </a>
 
-<p>
-It forwards text, photos, videos, documents, audio, voice messages, GIFs, captions, and media albums in both directions.
-</p>
+</div>
 
-<strong>Highlights</strong>
+A reliable bidirectional message bridge between one Telegram chat and one Bale chat, written in **Go 1.26**.
+
+It forwards text, photos, videos, documents, audio, voice messages, GIFs, captions, and photo/video albums in both directions.
+
+**Highlights**
 
 * Ordered message delivery
-* Automatic retries
-* SQLite-backed deduplication
-* Forwarding-loop prevention
+* Automatic retries for transient failures
+* SQLite-backed duplicate prevention
+* Forwarding-loop protection
+* Photo and video album support
+* Automatic temporary-file cleanup
 * Graceful shutdown
 * Docker support
 
-<p>
-  <code>Go</code>
-  <code>SQLite</code>
-  <code>Docker</code>
-  <code>Bot APIs</code>
-</p>
+**Stack**
 
-<p align="center">
-  <a href="https://github.com/RivnZero/telegram-bale-bridge">
-    <img
-      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Telegram–Bale Bridge"
-    />
-  </a>
-</p>
+`Go` · `SQLite` · `Docker` · `Telegram Bot API` · `Bale Bot API`
 
-</td>
-<td width="50%" valign="top">
+<p>   <a href="https://github.com/RivnZero/telegram-bale-bridge">     <img       src="[https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)"       alt="View Telegram–Bale Bridge repository"     />   </a> </p>
 
-<h3 align="center">
-  <a href="https://github.com/RivnZero/dhook">
-    dhook
-  </a>
-</h3>
+---
 
-<p>
-A lightweight, zero-dependency Discord webhook client written entirely with the Go standard library.
-</p>
+### dhook
 
-<p>
-It provides multi-webhook routing, rate-limit handling, retries, file uploads, background queues, and a fluent embed builder.
-</p>
+A lightweight, reliable, and zero-dependency Discord webhook client for Go.
 
-<strong>Highlights</strong>
+It supports multi-webhook routing, rate-limit handling, retries, file uploads, background queues, event hooks, context cancellation, and fluent embed construction.
 
-* Zero third-party dependencies
+**Highlights**
+
+* Built entirely with the Go standard library
 * Multi-URL broadcasting
-* Automatic rate-limit handling
+* Automatic Discord rate-limit handling
 * Exponential retry backoff
-* Concurrent background queue
-* Context cancellation
+* Concurrent background workers
+* File and attachment uploads
+* Fluent embed builder
+* Event hooks
+* Standalone CLI
+* GitHub Actions and GoReleaser workflow
 
-<p>
-  <code>Go</code>
-  <code>Discord Webhooks</code>
-  <code>GitHub Actions</code>
-</p>
+**Stack**
 
-<p align="center">
-  <a href="https://github.com/RivnZero/dhook">
-    <img
-      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View dhook"
-    />
-  </a>
-</p>
+`Go` · `Discord Webhooks` · `GitHub Actions` · `GoReleaser`
 
-</td>
-</tr>
-</table>
+<p>   <a href="https://github.com/RivnZero/dhook">     <img       src="[https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)"       alt="View dhook repository"     />   </a> </p>
 
 ---
 
 ## Technologies
 
+### Backend and systems
+
 <div align="center">
 
 <img
-src="https://skillicons.dev/icons?i=go,ts,js,nodejs,react,nextjs,rust&theme=dark"
-alt="Programming languages and frameworks"
+src="[https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white)"
+alt="Go"
+/>
+<img
+src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)"
+alt="Node.js"
+/>
+<img
+src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white)"
+alt="Rust"
+/>
+<img
+src="[https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)"
+alt="REST APIs"
 />
 
-<br><br>
+</div>
+
+### Web development
+
+<div align="center">
 
 <img
-src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,githubactions,linux&theme=dark"
-alt="Databases and development tools"
+src="[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)"
+alt="TypeScript"
+/>
+<img
+src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)"
+alt="JavaScript"
+/>
+<img
+src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)"
+alt="React"
+/>
+<img
+src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)"
+alt="Next.js"
+/>
+<img
+src="[https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white)"
+alt="Tailwind CSS"
+/>
+
+</div>
+
+### Databases and tools
+
+<div align="center">
+
+<img
+src="[https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&amp;logo=postgresql&amp;logoColor=white)"
+alt="PostgreSQL"
+/>
+<img
+src="[https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-00758F?style=flat-square&amp;logo=mysql&amp;logoColor=white)"
+alt="MySQL"
+/>
+<img
+src="[https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white](https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white)"
+alt="SQLite"
+/>
+<img
+src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)"
+alt="Docker"
+/>
+<img
+src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)"
+alt="Git"
+/>
+<img
+src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white)"
+alt="GitHub Actions"
+/>
+<img
+src="[https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black)"
+alt="Linux"
 />
 
 </div>
@@ -186,7 +223,7 @@ alt="Databases and development tools"
 <a href="https://github.com/RivnZero">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=RivnZero&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&bg_color=0D1117"
+    src="[https://github-stats-extended.vercel.app/api?username=RivnZero&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true](https://github-stats-extended.vercel.app/api?username=RivnZero&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_rank=true)"
     alt="RivnZero GitHub statistics"
   />
 </a>
@@ -194,15 +231,17 @@ alt="Databases and development tools"
 <a href="https://github.com/RivnZero?tab=repositories">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=RivnZero&layout=compact&hide_border=true&langs_count=8&title_color=00CED1&text_color=C9D1D9&bg_color=0D1117"
+    src="[https://github-stats-extended.vercel.app/api/top-langs?username=RivnZero&layout=compact&theme=github_dark&hide_border=true&langs_count=8](https://github-stats-extended.vercel.app/api/top-langs?username=RivnZero&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8)"
     alt="RivnZero most used languages"
   />
 </a>
 
+<br>
+
 <a href="https://github.com/RivnZero">
   <img
     width="98%"
-    src="https://streak-stats.demolab.com?user=RivnZero&hide_border=true&background=0D1117&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CED1&sideLabels=00CED1&dates=8B949E"
+    src="[https://streak-stats.demolab.com?user=RivnZero&hide_border=true&background=0D1117&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CED1&sideLabels=00CED1&dates=8B949E](https://streak-stats.demolab.com?user=RivnZero&amp;hide_border=true&amp;background=0D1117&amp;stroke=00CED1&amp;ring=00CED1&amp;fire=00CED1&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00CED1&amp;sideLabels=00CED1&amp;dates=8B949E)"
     alt="RivnZero GitHub contribution streak"
   />
 </a>
@@ -213,24 +252,22 @@ alt="Databases and development tools"
 
 ---
 
-## Connect
+## Contact
+
+Have an interesting project, integration, architecture problem, or collaboration idea?
 
 <div align="center">
 
-<p>
-Have an interesting project, integration, architecture problem, or collaboration idea?
-</p>
-
 <a href="https://t.me/theenchant">
   <img
-    src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    src="[https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white)"
     alt="Contact me on Telegram"
   />
 </a>
 
 <a href="https://github.com/RivnZero">
   <img
-    src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="[https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)"
     alt="Follow me on GitHub"
   />
 </a>
@@ -242,11 +279,5 @@ Have an interesting project, integration, architecture problem, or collaboration
 <div align="center">
 
 <code>console.log("Building useful software, one commit at a time.");</code>
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:00CED1&height=100&section=footer"
-alt="Footer"
-/>
 
 </div>
