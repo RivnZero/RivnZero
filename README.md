@@ -6,7 +6,7 @@
 
 <a href="https://github.com/RivnZero">
   <img
-    src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00CED1&center=true&vCenter=true&width=650&height=45&lines=Mohammad+Kian+Ostad.........;Building+reliable+backend+systems;Creating+developer+tools+with+Go;Developing+high-performance+bot+ecosystems;Not+Hiro+Hamada.+Still+inventing](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=00CED1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=Mohammad+Kian+Ostad.........;Building+reliable+backend+systems;Creating+developer+tools+with+Go;Developing+high-performance+bot+ecosystems;Not+Hiro+Hamada.+Still+inventing)."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00CED1&center=true&vCenter=true&width=650&height=45&lines=Mohammad+Kian+Ostad.........;Building+reliable+backend+systems;Creating+developer+tools+with+Go;Developing+high-performance+bot+ecosystems;Not+Hiro+Hamada.+Still+inventing"
     alt="Mohammad Kian Ostad"
   />
 </a>
@@ -14,13 +14,13 @@
 <p>
   <a href="https://github.com/RivnZero">
     <img
-      src="[https://img.shields.io/badge/GitHub-RivnZero-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-RivnZero-181717?style=flat-square&amp;logo=github&amp;logoColor=white)"
+      src="https://img.shields.io/badge/GitHub-RivnZero-181717?style=flat-square&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
   <a href="https://t.me/theenchant">
     <img
-      src="[https://img.shields.io/badge/Telegram-@theenchant-26A5E4?style=flat-square&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-@theenchant-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white)"
+      src="https://img.shields.io/badge/Telegram-@theenchant-26A5E4?style=flat-square&logo=telegram&logoColor=white"
       alt="Telegram"
     />
   </a>
@@ -73,7 +73,13 @@ I build backend services, web applications, bot integrations, and developer tool
 
 <div align="center">
 
-<a href="https://github.com/RivnZero/telegram-bale-bridge">   <img     src="https://raw.githubusercontent.com/RivnZero/telegram-bale-bridge/master/assets/logo.webp"     width="180"     alt="Telegram–Bale Bridge logo"   /> </a>
+<a href="https://github.com/RivnZero/telegram-bale-bridge">
+  <img
+    src="https://raw.githubusercontent.com/RivnZero/telegram-bale-bridge/master/assets/logo.webp"
+    width="180"
+    alt="Telegram–Bale Bridge logo"
+  />
+</a>
 
 </div>
 
@@ -96,7 +102,14 @@ It forwards text, photos, videos, documents, audio, voice messages, GIFs, captio
 
 `Go` · `SQLite` · `Docker` · `Telegram Bot API` · `Bale Bot API`
 
-<p>   <a href="https://github.com/RivnZero/telegram-bale-bridge">     <img       src="[https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)"       alt="View Telegram–Bale Bridge repository"     />   </a> </p>
+<p>
+  <a href="https://github.com/RivnZero/telegram-bale-bridge">
+    <img
+      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Telegram–Bale Bridge repository"
+    />
+  </a>
+</p>
 
 ---
 
@@ -123,7 +136,14 @@ It supports multi-webhook routing, rate-limit handling, retries, file uploads, b
 
 `Go` · `Discord Webhooks` · `GitHub Actions` · `GoReleaser`
 
-<p>   <a href="https://github.com/RivnZero/dhook">     <img       src="[https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)"       alt="View dhook repository"     />   </a> </p>
+<p>
+  <a href="https://github.com/RivnZero/dhook">
+    <img
+      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View dhook repository"
+    />
+  </a>
+</p>
 
 ---
 
@@ -133,22 +153,10 @@ It supports multi-webhook routing, rate-limit handling, retries, file uploads, b
 
 <div align="center">
 
-<img
-src="[https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white)"
-alt="Go"
-/>
-<img
-src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)"
-alt="Node.js"
-/>
-<img
-src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white)"
-alt="Rust"
-/>
-<img
-src="[https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)"
-alt="REST APIs"
-/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 
 </div>
 
@@ -156,26 +164,11 @@ alt="REST APIs"
 
 <div align="center">
 
-<img
-src="[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)"
-alt="TypeScript"
-/>
-<img
-src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)"
-alt="JavaScript"
-/>
-<img
-src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)"
-alt="React"
-/>
-<img
-src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)"
-alt="Next.js"
-/>
-<img
-src="[https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white)"
-alt="Tailwind CSS"
-/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
 </div>
 
@@ -183,34 +176,13 @@ alt="Tailwind CSS"
 
 <div align="center">
 
-<img
-src="[https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&amp;logo=postgresql&amp;logoColor=white)"
-alt="PostgreSQL"
-/>
-<img
-src="[https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-00758F?style=flat-square&amp;logo=mysql&amp;logoColor=white)"
-alt="MySQL"
-/>
-<img
-src="[https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white](https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white)"
-alt="SQLite"
-/>
-<img
-src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)"
-alt="Docker"
-/>
-<img
-src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)"
-alt="Git"
-/>
-<img
-src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white)"
-alt="GitHub Actions"
-/>
-<img
-src="[https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black)"
-alt="Linux"
-/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 
 </div>
 
@@ -223,7 +195,7 @@ alt="Linux"
 <a href="https://github.com/RivnZero">
   <img
     width="49%"
-    src="[https://github-stats-extended.vercel.app/api?username=RivnZero&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true](https://github-stats-extended.vercel.app/api?username=RivnZero&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_rank=true)"
+    src="https://github-stats-extended.vercel.app/api?username=RivnZero&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true"
     alt="RivnZero GitHub statistics"
   />
 </a>
@@ -231,7 +203,7 @@ alt="Linux"
 <a href="https://github.com/RivnZero?tab=repositories">
   <img
     width="49%"
-    src="[https://github-stats-extended.vercel.app/api/top-langs?username=RivnZero&layout=compact&theme=github_dark&hide_border=true&langs_count=8](https://github-stats-extended.vercel.app/api/top-langs?username=RivnZero&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8)"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=RivnZero&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
     alt="RivnZero most used languages"
   />
 </a>
@@ -241,7 +213,7 @@ alt="Linux"
 <a href="https://github.com/RivnZero">
   <img
     width="98%"
-    src="[https://streak-stats.demolab.com?user=RivnZero&hide_border=true&background=0D1117&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CED1&sideLabels=00CED1&dates=8B949E](https://streak-stats.demolab.com?user=RivnZero&amp;hide_border=true&amp;background=0D1117&amp;stroke=00CED1&amp;ring=00CED1&amp;fire=00CED1&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00CED1&amp;sideLabels=00CED1&amp;dates=8B949E)"
+    src="https://streak-stats.demolab.com?user=RivnZero&hide_border=true&background=0D1117&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CED1&sideLabels=00CED1&dates=8B949E"
     alt="RivnZero GitHub contribution streak"
   />
 </a>
@@ -260,14 +232,14 @@ Have an interesting project, integration, architecture problem, or collaboration
 
 <a href="https://t.me/theenchant">
   <img
-    src="[https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white)"
+    src="https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
     alt="Contact me on Telegram"
   />
 </a>
 
 <a href="https://github.com/RivnZero">
   <img
-    src="[https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)"
+    src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="Follow me on GitHub"
   />
 </a>
